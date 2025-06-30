@@ -7,7 +7,7 @@
 🌱 I’m learning **Deep Learning, Federated Learning, and Edge AI**  
 👯 I’m looking to collaborate on **AI research and open source projects**  
 💬 Ask me about **Python, TensorFlow, JavaScript, Firebase, ESP32, GPT models**  
-📫 How to reach me: `yourname@gmail.com`  
+📫 How to reach me: `ashansanjana03@gmail.com`  
 ⚡ Fun fact: I love turning complex problems into elegant code.
 
 ---
