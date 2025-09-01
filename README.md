@@ -107,7 +107,7 @@ I love developing **AI-driven systems**, **full-stack web apps**, and **IoT-base
 ## 📬 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/satharaka-nilmantha-aa7b96297/"><img src="https://img.shields.io/badge/LinkedIn-5A0FC8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ashan-sanjana-53107b36b"><img src="https://img.shields.io/badge/LinkedIn-5A0FC8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ashansanjana03@gmail.com"><img src="https://img.shields.io/badge/Email-7E3FF2?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://ashansanjana.github.io/Ashan-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=firefox&logoColor=white"></a>
   <a href="https://github.com/Ashansanjana"><img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white"></a>
