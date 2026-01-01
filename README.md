@@ -1,144 +1,97 @@
-<!-- Dark Purple Hacker Theme -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=✨+Welcome+to+my+GitHub+Profile!+✨;AI+%7C+ML+%7C+DL+%7C+Generative+AI;Turning+Ideas+into+Reality+🚀" alt="Welcome Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=B37DF0&center=true&vCenter=true&width=1000&lines=✨+Welcome+to+my+GitHub+Profile!+✨;AI+%7C+ML+%7C+DL+%7C+Generative+AI;Turning+Ideas+into+Reality+🚀;Building+Intelligent+Systems+for+Tomorrow" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<h1 align="center">💻 Ashan Sanjana | AI, CV & Full-Stack Developer</h1>
-<h3 align="center">Computer Engineering Undergraduate | AI & ML Enthusiast | Full-Stack Developer 🚀</h3>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/31af612b-b4c4-4174-962d-d4c603413ef2" width="180" height="180" alt="Ashan Sanjana" style="border-radius: 50%; border: 4px solid #B37DF0;" />
+  
+  <h1 align="center">Hi, I'm Ashan Sanjana 👋</h1>
+  <h3 align="center">🚀 AI Engineer | Computer Vision Specialist | Full-Stack Developer</h3>
+  
+  <p align="center">
+    <em>Computer Engineering Undergraduate at University of Jaffna, Sri Lanka</em>
+  </p>
 
-<p align="center">
-  <!-- Update this image URL to your new profile picture (replace the src) -->
-  <img src="https://github.com/user-attachments/assets/31af612b-b4c4-4174-962d-d4c603413ef2" 
-       width="300" height="300" alt="Profile Picture" style="border-radius:12px" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=B37DF0&center=true&width=600&lines=AI+%7C+ML+%7C+DL+%7C+Computer+Vision+%7C+RAG;AI+Automation+%7C+Software+Development;Building+Intelligent+Systems" alt="Typing Animation" />
-</p>
-
----
-
-## 🌌 About Me
-
-Hi, I’m **Ashan Sanjana**, a Computer Engineering undergraduate at the **University of Jaffna, Sri Lanka**.  
-I build practical AI systems, end-to-end software, and embedded/IoT solutions.
-
-- 🧠 Currently: Working on a **Multimodal Eye Disease Classification System** (Vision Transformers + NLP + Chatbot)  
-- 🤖 Focus Areas: **AI Automation**, **Computer Vision**, **Generative AI / RAG**, **Full-Stack & Mobile Development**  
-- 🎯 Goal: Make AI practical, scalable, and impactful in healthcare and real-world products  
-- 🛠 Motto: Code Smart, Build Fast, Solve Problems
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ashan-sanjana-53107b36b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:ashansanjana03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://ashansanjana.github.io/Ashan-portfolio/"><img src="https://img.shields.io/badge/Portfolio-%234B0082.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  </p>
+  
+  <br/>
+</div>
 
 ---
 
-## ✨ New / Highlighted Expertise
+### 🧐 About Me
 
-- AI Automation — building pipelines and tools to automate ML workflows, model orchestration, and inference serving.
-- Computer Vision — image classification, segmentation, object detection, and medical imaging (OCT) systems.
-- Software Development — full-stack web & mobile apps, APIs (FastAPI, Spring Boot), and DevOps best practices.
+I am a passionate developer bridging the gap between **Complex AI Research** and **Practical Software Solutions**. My work focuses on automating workflows, analyzing visual data, and building intelligent conversational agents.
 
----
-
-## 🏗️ Featured Projects
-
-### 🔹 HealthHub – Smart Hospital Management System
-https://github.com/Ashansanjana/HealthHub_Smart-Hospital.git  
-Tech: Java Spring Boot, React.js, MySQL, Bootstrap  
-- Role-based hospital management, digital prescriptions, responsive dashboards.
-
-### 🔹 Eye Disease Classification with Integrated Chatbot
-https://github.com/Ashansanjana/Eye-Disease-Classification-With-Integrated-Chatbot.git  
-Tech: Vision Transformers, PyTorch, NLP, FastAPI, React  
-- Multimodal pipeline (OCT image analysis + symptom NLP) and an AI chatbot for patient guidance.
-
-### 🔹 AI Automation Toolkit (Recommended to add)
-(You can create a repo like `ai-automation-toolkit`)  
-Tech: Python, Airflow/Prefect, Docker, FastAPI, CI/CD  
-- Automates data ingestion, model training, versioning, and deployment pipelines.  
-- Useful patterns: scheduled retraining, metric monitoring, and model rollback strategy.
-
-### 🔹 Computer Vision — Smart Railway Gate Control System
-https://github.com/Ashansanjana/Smart-Railway-Gate-Control-System-with-GPS-Tracking.git  
-Tech: ESP32, C, Firebase, React Native  
-- Real-time GPS tracking + mobile control; can be extended with on-device vision for obstacle detection.
-
-### 🔹 Chat with Multiple PDFs using RAG
-https://github.com/Ashansanjana/chatwith-multiple-pdf-using-RAG-based-system.git  
-Tech: LangChain, FAISS, Gemini (or other LLMs), Streamlit  
-- RAG-based conversational agent for document Q&A.
-
-### 🔹 Student Feedback System
-https://github.com/Ashansanjana/Student-Feedback.git  
-Tech: HTML, CSS, JavaScript, PHP  
-- Dynamic feedback forms and analysis dashboard.
+- 🔭 **Currently Working on:** A **Multimodal Eye Disease Classification System** using Vision Transformers & RAG.
+- 🌱 **Learning:** MLOps pipelines, Advanced RAG architectures, and Edge AI deployment.
+- 💡 **Specialization:** Computer Vision, NLP, Generative AI, and IoT Integration.
+- ⚡ **Fun Fact:** I love turning "it's too complex" into "here's the prototype."
 
 ---
 
-## ⚙️ Skills & Tools
+### 🛠️ Technical Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,php,react,spring,tailwind,nodejs,fastapi&theme=dark" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="HuggingFace" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" />
-</p>
-
-Key areas: Model training & deployment, RAG & retrieval, CV pipelines (preprocessing, augmentation, inference), REST APIs, mobile apps, IoT integration.
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
 
 ---
 
-## 🏆 Achievements
+### 📂 Featured Projects
 
-- 🥇 MoraXtreme 9.0 (2024) — Island Rank 85 among 380+ teams (12-hour hackathon)  
-- 🧩 ALGOXPLORE 1.0 (2024) — Participated in algorithmic + CTF hackathon
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashansanjana&show_icons=true&theme=tokyonight&title_color=B37DF0&icon_color=B37DF0" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashansanjana&theme=tokyonight&ring=B37DF0&fire=B37DF0&currStreakLabel=B37DF0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashansanjana&layout=compact&theme=tokyonight&title_color=B37DF0" />
-</p>
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 Eye Disease Classification + Chatbot** | Multimodal system combining **OCT image analysis** (Vision Transformers) with an NLP chatbot for patient guidance. | `PyTorch` `ViT` `FastAPI` `React` |
+| **🏥 HealthHub** | Smart Hospital Management System with role-based access, digital prescriptions, and dashboards. | `Spring Boot` `React` `MySQL` |
+| **🚂 Smart Railway Gate** | IoT-based automated gate control using real-time GPS tracking and mobile app integration. | `ESP32` `C` `Firebase` `React Native` |
+| **📄 RAG Chat with PDFs** | Conversational agent that allows users to query multiple PDF documents using vector search. | `LangChain` `Gemini` `FAISS` `Streamlit` |
+| **🃏 Poker Hand Detector** | *Ongoing* - Real-time computer vision system to detect poker hands via webcam. | `YOLO` `OpenCV` `Flask` `Python` |
 
 ---
 
-## 📬 Let’s Connect
+### 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashan-sanjana-53107b36b"><img src="https://img.shields.io/badge/LinkedIn-5A0FC8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ashansanjana03@gmail.com"><img src="https://img.shields.io/badge/Email-7E3FF2?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://ashansanjana.github.io/Ashan-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=firefox&logoColor=white"></a>
-  <a href="https://github.com/Ashansanjana"><img src="https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+<div align="center">
+  <a href="https://github.com/Ashansanjana">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashansanjana&show_icons=true&theme=tokyonight&title_color=B37DF0&icon_color=B37DF0&bg_color=1a1b27&hide_border=true" height="160" alt="Ashan's Stats" />
+  </a>
+  <a href="https://github.com/Ashansanjana">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashansanjana&layout=compact&theme=tokyonight&title_color=B37DF0&icon_color=B37DF0&bg_color=1a1b27&hide_border=true" height="160" alt="Top Languages" />
+  </a>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=28&duration=3000&pause=1000&color=B37DF0&center=true&vCenter=true&width=900&lines=Think+Big.;Code+Smart.;Build+the+Future."/>
-</p>
-
-<p align="center">
-  <strong>💜 Thanks for visiting! Let's shape the future of AI together. 🤝</strong>
-</p>
-
-<h4 align="center">⭐ If you like what you see, star a repo or connect with me. Happy coding! 🚀</h4>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashansanjana&theme=tokyonight&ring=B37DF0&fire=B37DF0&currStreakLabel=B37DF0&background=1a1b27&hide_border=true" alt="Streak Stats" />
+</div>
 
 ---
 
-Notes & quick actions:
-- To update your profile picture: replace the image `src` in the "Profile Picture" block with the raw URL of your new image (e.g., GitHub repo raw URL or an uploaded asset URL).
-- If you'd like, I can:
-  - produce a shorter "bio card" version for README summary,
-  - generate a dedicated AI Automation repo README template,
-  - or create badges for the new skills (CV / AI Automation) and add them automatically.
+<div align="center">
+  
+  ### 🤝 Let's Collaborate!
+  
+  <p>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Ashansanjana&label=Profile%20Views&color=B37DF0&style=flat-square" alt="Profile Views" />
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=24&duration=3000&pause=1000&color=B37DF0&center=true&vCenter=true&width=500&lines=Think+Big.;Code+Smart.;Build+the+Future."/>
+  </p>
+</div>
